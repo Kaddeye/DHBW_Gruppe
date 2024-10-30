@@ -9,10 +9,10 @@ Warum könnte dieses Thema für dich wichtig sein?
 - GitHub ist geil, sollte ich können
 - 
 Was hast du deiner Einschätzung nach gut verstanden, was nicht?
-Nicht so gut:
-- wie das alles genau zusammen häng/ wieso ich welchen schritt machen muss, damit es am ende funktioniert
-gut:
-- /
+-Nicht so gut:
+  - wie das alles genau zusammen häng/ wieso ich welchen schritt machen muss, damit es am ende funktioniert
+- gut:
+  - /
 Was war heute dein größte inhaltliche Herausforderung?
 - s.o. 
 Welche Fragen zum Thema hast du noch?
