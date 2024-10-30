@@ -12,13 +12,13 @@ Was hast du deiner Einschätzung nach gut verstanden, was nicht?
 - nicht so gut:
   - wie das alles genau zusammen häng/ wieso ich welchen schritt machen muss, damit es am ende funktioniert
 - gut:
-  - //
+  - /
 
 Was war heute dein größte inhaltliche Herausforderung?
 - s.o.
 
 Welche Fragen zum Thema hast du noch?
-- //
+- /
 
 Warum interessiert dich dieses Thema oder warum gerade nicht?
 - GitHub ist wichtig, also sollte es mich interessieren
