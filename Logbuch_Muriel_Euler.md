@@ -11,7 +11,6 @@ Warum könnte dieses Thema für dich wichtig sein?
 Was hast du deiner Einschätzung nach gut verstanden, was nicht?
 -Nicht so gut:
   - wie das alles genau zusammen häng/ wieso ich welchen schritt machen muss, damit es am ende funktioniert
-
 - gut:
   - //
 
