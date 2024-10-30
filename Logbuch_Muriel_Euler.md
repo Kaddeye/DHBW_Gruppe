@@ -9,7 +9,7 @@ Warum könnte dieses Thema für dich wichtig sein?
 - GitHub ist geil, sollte ich können
 
 Was hast du deiner Einschätzung nach gut verstanden, was nicht?
--Nicht so gut:
+- nicht so gut:
   - wie das alles genau zusammen häng/ wieso ich welchen schritt machen muss, damit es am ende funktioniert
 - gut:
   - //
